@@ -1,0 +1,33 @@
+{
+  "name": "java-angularjs-seed",
+  "description": "A starter project for AngularJS combined with java and maven",
+  "main": "src/main/webapp/index.html",
+  "authors": [
+    "Quoc H."
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "java",
+    "maven",
+    "angularjs",
+    "seed"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.6.8",
+    "angular-loader": "^1.6.8",
+    "angular-route": "^1.6.8",
+    "angular-mocks": "^1.6.8",
+    "angular": "^1.6.8",
+    "bootstrap": "^3.3.7"
+  }
+}
